@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ruchika Das</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-<img align="right" alt="coding" width="400" src="cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+<img align="right" alt="coding" width="400" src="cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchika2345&label=Profile%20views&color=0e75b6&style=flat" alt="ruchika2345" /> </p>
 
