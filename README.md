@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@das32557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@das32557" height="30" width="40" /></a>
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika das" height="30" width="40" /></a>
-<a href="https://fb.com/ruchika das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchika das" height="30" width="40" /></a>
+<a href="https://www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchika das" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_justt_ruchika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_justt_ruchika" height="30" width="40" /></a>
 </p>
 
